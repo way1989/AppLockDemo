@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="disabled_swipe_preference_title">Snímok obrazovky tromi prstami</string>
+    <string name="disabled_swipe_preference_summary">keď je obrazovka v zapnutom stave, posuňte nadol tri prsty na obrazovke pre povolenie funkcie snímku obrazovky</string>
+    <string name="disabled_swipe_preference_summary2">Zavrieť</string>
+    <string name="disabled_swipe_preference_dialog">keď je snímok obrazovky tromi prstami v rozpore s inou operáciou, spínačom môžete povoliť vypnutie</string>
+</resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="disabled_swipe_preference_title">三指截屏</string>
+    <string name="disabled_swipe_preference_summary">亮屏時，三指在屏幕內下滑激活截屏功能</string>
+    <string name="disabled_swipe_preference_summary2">關閉</string>
+    <string name="disabled_swipe_preference_dialog">當三指截屏功能與其他功能存在衝突時，可通過此開關來關閉三指截屏功能</string>
+</resources>

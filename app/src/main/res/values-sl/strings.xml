@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="disabled_swipe_preference_title">Posnetek zaslona s tremi prsti</string>
+    <string name="disabled_swipe_preference_summary">ko je zaslon vklopljen, s tremi prsti potegnite po zaslonu navzdol, da zaženete funkcijo posnetka zaslona</string>
+    <string name="disabled_swipe_preference_summary2">Zapri</string>
+    <string name="disabled_swipe_preference_dialog">ko je posnetek zaslona s tremi prsti v konfliktu z drugo operacijo, ga izklopite s stikalom</string>
+</resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="disabled_swipe_preference_title">Tiro de tela de três dedos</string>
+    <string name="disabled_swipe_preference_summary">quando a tela fica no estado ligado, deslizar para baixo os três dedos na tela para activar a função lançar o tiro de tela </string>
+    <string name="disabled_swipe_preference_summary2">Fechar</string>
+    <string name="disabled_swipe_preference_dialog">quando o tiro de tela de três dedos tem conflito com outra operação, activar para desligar por interruptor</string>
+</resources>

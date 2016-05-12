@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="disabled_swipe_preference_title">Drei-Finger-Screenshot</string>
+    <string name="disabled_swipe_preference_summary">Gleiten Sie, wenn der Bildschirm eingeschaltet ist mit drei Fingern auf dem Bildschirm nach unten, um die Screenshot-Funktion zu starten.</string>
+    <string name="disabled_swipe_preference_summary2">Schließen</string>
+    <string name="disabled_swipe_preference_dialog">Wenn der Drei-Finger-Screenshot im Widerspruch zu einem anderen Vorgang steht, schalten Sie diesen über den Schalter ab.</string>
+</resources>

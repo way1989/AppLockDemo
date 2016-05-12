@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="disabled_swipe_preference_title">"Captura fent servir tres dits"</string>
+    <string name="disabled_swipe_preference_summary">"quan la pantalla està encesa, feu lliscar tres dits per la pantalla per a activar la funció de captura"</string>
+    <string name="disabled_swipe_preference_summary2">"Cancel·lar"</string>
+    <string name="disabled_swipe_preference_dialog">"quan el mode de captura fent servis 3 dits no funcioni correctament, desactiveu-lo amb l\'interruptor"</string>
+</resources>

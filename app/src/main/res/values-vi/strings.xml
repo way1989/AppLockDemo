@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="disabled_swipe_preference_title">Chụp màn hình ba ngón tay </string>
+    <string name="disabled_swipe_preference_summary">khi màn hình ở trạng thái bật, trượt xuống ba ngón tay trên màn hình cho phép khởi độngchức năng  màn hình</string>
+    <string name="disabled_swipe_preference_summary2">Đóng</string>
+    <string name="disabled_swipe_preference_dialog">khi chụp màn hình ba ngón tay có xung đột với các hoạt động khác, cho phép tắt nó bằng cách chuyển đổi</string>
+</resources>

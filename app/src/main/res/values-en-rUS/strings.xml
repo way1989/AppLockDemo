@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="disabled_swipe_preference_title">Three fingers screenshot</string>
+    <string name="disabled_swipe_preference_summary">when the screen is turn on status, slide down three fingers on screen enable to launch screenshot fuction</string>
+    <string name="disabled_swipe_preference_summary2">Close</string>
+    <string name="disabled_swipe_preference_dialog">when the three fingers screenshot has conflict with other operation, enable to turn off  it by the switch</string>
+</resources>

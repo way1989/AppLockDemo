@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="disabled_swipe_preference_title">Снимање од екранот со три прста</string>
+    <string name="disabled_swipe_preference_summary">кога екранот е во вклучен статус, лизгањето надолу со три прста овозможува започнување на функцијата снимање од екранот</string>
+    <string name="disabled_swipe_preference_summary2">Затвори</string>
+    <string name="disabled_swipe_preference_dialog">кога функцијата снимање од екранот со три прста е во конфликт со некоја друга операција, овозможи исклучување преку прекинувач</string>
+</resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="disabled_swipe_preference_title">Tangkap layar tiga jari</string>
+    <string name="disabled_swipe_preference_summary">Ketika status layar menyala, geser ke bawah dengan tiga jari pada layar untuk mengaktifkan fungsi tangkap layar</string>
+    <string name="disabled_swipe_preference_summary2">Tutup</string>
+    <string name="disabled_swipe_preference_dialog">Ketika tangkap layar tiga jari bermasalah dengan fungsi lain, bisa gunakan tombol ini untuk mematikan fungsi tangkap layar tiga jari ini.</string>
+</resources>

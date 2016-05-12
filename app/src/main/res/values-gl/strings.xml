@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="disabled_swipe_preference_title">Imaxe de pantalla con tres dedos</string>
+    <string name="disabled_swipe_preference_summary">cando a pantalla está acendida, deslice para abaixo con tres dedos na pantalla para permitir o acendido da función de fixar imaxe de pantalla</string>
+    <string name="disabled_swipe_preference_summary2">Pechar</string>
+    <string name="disabled_swipe_preference_dialog">cando a imaxe de pantalla por tres dedos entra en conflicto con outra operación, permite apagar a través do interruptor</string>
+</resources>

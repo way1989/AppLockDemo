@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="disabled_swipe_preference_title">Üç parmak ekran görüntüsü çekimi</string>
+    <string name="disabled_swipe_preference_summary">Ekran açma durumunda olduğunda, ekran görüntüsü çekimini başlatma işlemini etkinleştirmek için üç parmağınızı ekran üzerinde aşağı kaydırın. </string>
+    <string name="disabled_swipe_preference_summary2">Kapat</string>
+    <string name="disabled_swipe_preference_dialog">Üç parmak ekran görüntüsü çekimi başka bir işlem ile uyuşmadığında, onu kapatmayı anahtar ile etkinleştirin. </string>
+</resources>

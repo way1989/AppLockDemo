@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="disabled_swipe_preference_title">လက္ေခ်ာင္း သံုးေခ်ာင္း ဖန္သားျပင္ ဓါတ္ပံုရိုက္</string>
+    <string name="disabled_swipe_preference_summary">အေျခအေနျပတြင္ ဖန္သားျပင္ဖြင့္ထားလွ်င္, ဖန္သားျပင္ ဓါတ္ပံုရိုက္ရန္ ဖန္သားျပင္တြင္ လက္ေခ်ာင္း သံုးေခ်ာင္းျဖင့္ ဆလိုက္ေအာက္ဆြဲခ်ပါ</string>
+    <string name="disabled_swipe_preference_summary2">ပိတ္ပါ</string>
+    <string name="disabled_swipe_preference_dialog">လက္ေခ်ာင္း သံုးေခ်ာင္း ဖန္သားျပင္ ဓါတ္ပံုရိုက္သည္ တျခားေအာ္ပေရးရွင္း နွင့္ ထပ္ေနလွ်င္ ဖြင့္ပိတ္လွည့္ျဖင့္ ၄င္းကို ပိတ္ရန္ မေထာက္ပံ့ပါ  </string>
+</resources>

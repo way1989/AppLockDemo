@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="disabled_swipe_preference_title">Στιγμιότυπο τριών δαχτύλων</string>
+    <string name="disabled_swipe_preference_summary">όταν η οθόνη βρίσκεται σε κατάσταση λειτουργίας, κυλήστε προς τα κάτω τρία δάχτυλα στην οθόνη για να ενεργοποιήσετε τη λειτουργία στιγμιότυπων.</string>
+    <string name="disabled_swipe_preference_summary2">Κλείσιμο</string>
+    <string name="disabled_swipe_preference_dialog">όταν το στιγμιότυπο τριών δαχτύλων αντιβαίνει με κάποια άλλη λειτουργία, απενεργοποιήστε τη με την επιλογή ενεργοποίησης</string>
+</resources>

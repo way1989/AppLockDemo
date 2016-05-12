@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="disabled_swipe_preference_title">ថតអេក្រង់ដោយប្រើម្រាមបី</string>
+    <string name="disabled_swipe_preference_summary">នៅពេលដែលស្គ្រីនៅភ្លឺ ពេលយកម្រាមដៃបីអូសចុះក្រោម នោះវានឹងសម្រេចបាននូវសកម្មភាពថតអេក្រង់។</string>
+    <string name="disabled_swipe_preference_summary2">បិទ</string>
+    <string name="disabled_swipe_preference_dialog">នៅពេដែលការថតអេក្រង់ដោយប្រើម្រាមបី ត្រួតគ្នាជាមួយនឹងប្រតិបត្តិការផ្សេងទៀត នោះអាចបិទមុខងារនេះបានដោយចូលបិទមុខងារថតអេក្រង់នេះ។</string>
+</resources>

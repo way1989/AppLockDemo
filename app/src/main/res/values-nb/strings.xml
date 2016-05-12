@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="disabled_swipe_preference_title">Tre fingre skjermbilder</string>
+    <string name="disabled_swipe_preference_summary">Når skjermen er på, sveip tre fingre nedover skjermen for å starte skjermbilde-funksjonen</string>
+    <string name="disabled_swipe_preference_summary2">Lukk</string>
+    <string name="disabled_swipe_preference_dialog">Når tre fingre skjermbilder har en konflikt med andre programmer, aktiver å slå det av med bryteren</string>
+</resources>

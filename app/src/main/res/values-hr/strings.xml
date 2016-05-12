@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="disabled_swipe_preference_title">Snimak sa tri prsta</string>
+    <string name="disabled_swipe_preference_summary">kada je zaslon u statusu uključen, spuštanje tri prsta na zaslonu omogućava pokretanje funkcije slikanja zaslona.</string>
+    <string name="disabled_swipe_preference_summary2">Zatvori</string>
+    <string name="disabled_swipe_preference_dialog">kada je slikanje zaslona sa tri prsta pokrenuto zajedno sa nekom drugom radnjom, omogućite isključivanje uz pomoć sklopke </string>
+</resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="disabled_swipe_preference_title">عکس از صفحه با سه انگشت</string>
+    <string name="disabled_swipe_preference_summary">هنگام روشن بودن صفحه، سه انگشت خود را روی صفحه بکشید تا عملکرد عکس گرفتن از صفحه آغاز شود</string>
+    <string name="disabled_swipe_preference_summary2">بستن</string>
+    <string name="disabled_swipe_preference_dialog">هنگامی که عملکرد عکس از صفحه با سه انگشت با عملیات‌های دیگر تضاد داشته باشد، خاموش کردن آن با کلید را فعال کنید</string>
+</resources>

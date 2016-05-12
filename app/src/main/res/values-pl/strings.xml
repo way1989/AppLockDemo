@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="disabled_swipe_preference_title">Trzypalcowy zrzut ekranu</string>
+    <string name="disabled_swipe_preference_summary">gdy ekran ma status "włączony", przesuń po ekranie w dół trzy palce, a funkcja zrzutu ekranu zostanie uruchomiona</string>
+    <string name="disabled_swipe_preference_summary2">Zamknij</string>
+    <string name="disabled_swipe_preference_dialog">gdy funkcja trzypalcowego zrzutu ekranu jest w konfilkcie z inną operacją, to pozwól ją wyłączyć za pomocą przełącznika</string>
+</resources>

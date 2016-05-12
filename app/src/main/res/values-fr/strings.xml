@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="disabled_swipe_preference_title">Capture d\'écran à trois doigts </string>
+    <string name="disabled_swipe_preference_summary">Lorsque l\'écran est en état Activé, glisser vers le bas trois doigts sur l\'écran pour lancer la fonction capture d\'écran.</string>
+    <string name="disabled_swipe_preference_summary2">Fermer</string>
+    <string name="disabled_swipe_preference_dialog">Lorsque la capture d\'écran de trois doigts a conflit avec une autre opération,désactiver par le commutateur</string>
+</resources>

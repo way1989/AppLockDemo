@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="disabled_swipe_preference_title">Screenshot třemi prsty</string>
+    <string name="disabled_swipe_preference_summary">když je obrazovka v zapnutém stavu, tahem tří prstů shora dolů aktivujete funkci screenshotu</string>
+    <string name="disabled_swipe_preference_summary2">Zavřít</string>
+    <string name="disabled_swipe_preference_dialog">když screenshot třemi prsty je v rozporu s jinými operacemi, vypínačem je možné funkci vypnout</string>
+</resources>

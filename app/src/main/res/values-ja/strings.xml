@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="disabled_swipe_preference_title">3本指のスクリーンショット</string>
+    <string name="disabled_swipe_preference_summary">画面のステータスがオンのとき、スクリーンショット機能の起動を有効にするには、画面上で3本の指をスライドダウンしますきのうきどう</string>
+    <string name="disabled_swipe_preference_summary2">クローズ</string>
+    <string name="disabled_swipe_preference_dialog">3本の指のスクリーンショットがその他の操作と競合する場合には、スイッチでオフにすることが可能になります</string>
+</resources>

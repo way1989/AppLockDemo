@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="disabled_swipe_preference_title">Screenshot a tre dita </string>
+    <string name="disabled_swipe_preference_summary">quando lo schermo è nello status di acceso, toccare e muovere verso il basso tre dita sullo schermo per avviare la funzione screenshot</string>
+    <string name="disabled_swipe_preference_summary2">Chiudere</string>
+    <string name="disabled_swipe_preference_dialog">quando la funzione screenshot entra in conflitto con altre operazioni, permette di spegnerle con il  pulsante</string>
+</resources>

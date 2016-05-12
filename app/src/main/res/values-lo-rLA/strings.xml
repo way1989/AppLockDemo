@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="disabled_swipe_preference_title">ພາບ​ໜ້າ​ຈໍ​ສາມ​ນີ້ວ</string>
+    <string name="disabled_swipe_preference_summary">ເມື່ອ​ສະ​ຖາ​ນະ​ໜ້າ​ຈໍ​ຖືກ​ເປີດ ເລື່ອນ​ໜ້າ​ຈໍ​ສາ​ມ​ນີ້ວ​ລົງ​ເທິງ​ໜ້າ​ຈໍ​ເພື່ອ​ເປີດ​ຟັງ​ຊັ່ນ​ຈັບ​ພາບ​ໜ້າ​ຈໍ</string>
+    <string name="disabled_swipe_preference_summary2">​ປິດ</string>
+    <string name="disabled_swipe_preference_dialog">ເມື່ອ​ໜ້າ​ຈໍ​ສາ​ມ​ນີ້ວ​ມີ​ຄວາມ​ຂັດ​ແຍ້ງ​ກັບ​ການ​ດຳ​ເນີນ​ການ​ອື່ນ ສາ​ມາດ​ປິດ​ມັນ​ດ້ວຍ​ສະ​ວິດ​ຊ໌</string>
+</resources>
